@@ -1,0 +1,7 @@
+node_modules/
+tmp/
+temp/
+platforms/
+plugins/
+$RECYCLE.BIN/
+.DS_Store
